@@ -1,0 +1,12 @@
+umap_learn==0.5.1
+sentence_transformers==2.1.0
+scipy==1.7.1
+tqdm==4.62.3
+nltk==3.6.3
+textblob==0.15.3
+flair==0.9
+matplotlib==3.4.3
+numpy==1.19.5
+PyYAML==6.0
+scikit_learn==1.0.2
+umap==0.1.1
